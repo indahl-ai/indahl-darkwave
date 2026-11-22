@@ -1,0 +1,17 @@
+{
+  "name": "indahl-darkwave",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-darkwave",
+      "source": "./",
+      "description": "Measure the phase turn on untouched qubits after a mid-circuit readout on IBM Quantum hardware, and add the matching virtual-Z correction to your own circuits. Self-test on the simulator needs no account.",
+      "version": "1.1.1",
+      "category": "research",
+      "homepage": "https://indahl.ai/darkwave"
+    }
+  ]
+}
